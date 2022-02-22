@@ -31,7 +31,7 @@ Za pristup sveskama koje koristimo na času pogledajte `live` granu.
 # Video lekcije
 |Nedelja | Link |
 |:--------|:------|
-
+| 1 | [čas 01](https://matf.webex.com/matf/ldr.php?RCID=77b8de77f069847a8cc244a63b0a4161)
 
 # Tehnologije
 
