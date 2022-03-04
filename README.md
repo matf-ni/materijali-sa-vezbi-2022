@@ -13,17 +13,18 @@ Zvanični sajt kursa: [http://ni.matf.bg.ac.rs/](http://ni.matf.bg.ac.rs/)
 |Nedelja | Teme |
 |:--------|:------|
 | 1 | Uvod u programski jezik `Python` i pakete `numpy`, `pandas` i `matplotlib`|
-| 2 | Srednjekvadratna aproksimacija |
-| 3 | Regularizacija i odudarajući podaci |
-| 4 | Furijeova transformacija - uvodni primeri za rad sa signalima, zvukom i slikama |
-| 5 | Furijeova transformacija - primene u radu sa slikama |
-| 6 | Furijeova transformacija - premene u radu sa signalima |
-| 7 | Sopstvene vrednosti i sopstveni vektori - algoritmi izračunavanja, PCA i sopstvena lica |
-| 8 | Pagerank algoritam - implementacija, podrška paketa `networkx` i primer sumarizacije dokumenata |
-| 9 | Retke matrice - formati zapisa, bibliotečka podrška i primer primene u sistemima pretraživanja informacija |
-| 10 | Dekompozicije matrica - LU, Čoleski i SVD dekompozicije, kompresija slika, sistemi preporuka i predikcija nedostajućih vrednosti |
-| 11 | Optimizacija - bibliotečka podrška u problemima optimizacije sa i bez ograničenja; lokalna pretraga |
-| 12 | Modelovanje optimizacionih problema korišćenjem Pyomo biblioteke |
+| 2 | Rad sa vidžetima; `numpy` upravljanje memorijom |
+| 3 | Srednjekvadratna aproksimacija |
+| 4 | Regularizacija i odudarajući podaci |
+| 5 | Furijeova transformacija - uvodni primeri za rad sa signalima, zvukom i slikama |
+| 6 | Furijeova transformacija - primene u radu sa slikama |
+| 7 | Furijeova transformacija - premene u radu sa signalima |
+| 8 | Sopstvene vrednosti i sopstveni vektori - algoritmi izračunavanja, PCA i sopstvena lica |
+| 9 | Pagerank algoritam - implementacija, podrška paketa `networkx` i primer sumarizacije dokumenata |
+| 10 | Retke matrice - formati zapisa, bibliotečka podrška i primer primene u sistemima pretraživanja informacija |
+| 11 | Dekompozicije matrica - LU, Čoleski i SVD dekompozicije, kompresija slika, sistemi preporuka i predikcija nedostajućih vrednosti |
+| 12 | Optimizacija - bibliotečka podrška u problemima optimizacije sa i bez ograničenja; lokalna pretraga |
+| 13 | Modelovanje optimizacionih problema korišćenjem Pyomo biblioteke |
 
 
 Za pristup sveskama koje koristimo na času pogledajte `live` granu.
@@ -32,6 +33,7 @@ Za pristup sveskama koje koristimo na času pogledajte `live` granu.
 |Nedelja | Link |
 |:--------|:------|
 | 1 | [čas 01](https://matf.webex.com/matf/ldr.php?RCID=77b8de77f069847a8cc244a63b0a4161)
+| 2 | [čas 02](https://matf.webex.com/matf/ldr.php?RCID=416cf5a4b54193ceb407d5340d7f0fe7)
 
 # Tehnologije
 
