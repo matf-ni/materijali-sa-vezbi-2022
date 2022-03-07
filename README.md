@@ -34,6 +34,7 @@ Za pristup sveskama koje koristimo na času pogledajte `live` granu.
 |:--------|:------|
 | 1 | [čas 01](https://matf.webex.com/matf/ldr.php?RCID=77b8de77f069847a8cc244a63b0a4161)
 | 2 | [čas 02](https://matf.webex.com/matf/ldr.php?RCID=416cf5a4b54193ceb407d5340d7f0fe7)
+| 3 | [čas 03](https://matf.webex.com/matf/ldr.php?RCID=e09595b957bad1d6e97e7101ad735e7c)
 
 # Tehnologije
 
