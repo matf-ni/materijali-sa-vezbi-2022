@@ -37,6 +37,7 @@ Za pristup sveskama koje koristimo na času pogledajte `live` granu.
 | 3 | [čas 03](https://matf.webex.com/matf/ldr.php?RCID=e09595b957bad1d6e97e7101ad735e7c)
 | 4 | [čas 04](https://matf.webex.com/matf/ldr.php?RCID=7b6cebaf95c55aab8fb183a80fe6a904)
 | 5 | [čas 05](https://matf.webex.com/matf/ldr.php?RCID=05d4e0f79cf5956f14aa4cee04798d4a)
+| 6 | [čas 06](https://matf.webex.com/matf/ldr.php?RCID=39c4a805bd8ca031baf86ff9df6dcfaf)
 
 # Tehnologije
 
@@ -56,6 +57,7 @@ Za više informacija o okruženju `Jupyter` možete pogledati [zvaničnu stranic
 Na godišenjm nivou zajednica koja se bavi naučnim izračunavanjem organizuje konferenciju [ScyPi conference](https://conference.scipy.org/) sa predavanjima i materijalima koji su javno dostupni. Predlažemo da istražite sajt konferencije i prateće `YouTube` kanale. Tutorijali i demo sesije su jako korisni i zanimljivi, neke primere smo pozajmili i za naš kurs. :)   
 
 ## Korsne informacije: 
+
 U zajednici koja se bavi naučnim izračunavanjem, koriste se i alternativna radna okruženja:
 - [Spyder](https://github.com/spyder-ide/spyder)
 - [PyCharm](https://www.jetbrains.com/pycharm/) - može se koristiti besplatno uz Alas nalog
