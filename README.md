@@ -21,10 +21,9 @@ Zvanični sajt kursa: [http://ni.matf.bg.ac.rs/](http://ni.matf.bg.ac.rs/)
 | 7 | Furijeova transformacija - premene u radu sa signalima |
 | 8 | Sopstvene vrednosti i sopstveni vektori - algoritmi izračunavanja, PCA i sopstvena lica |
 | 9 | Pagerank algoritam - implementacija, podrška paketa `networkx` i primer sumarizacije dokumenata |
-| 10 | Retke matrice - formati zapisa, bibliotečka podrška i primer primene u sistemima pretraživanja informacija |
-| 11 | Dekompozicije matrica - LU, Čoleski i SVD dekompozicije, kompresija slika, sistemi preporuka i predikcija nedostajućih vrednosti |
-| 12 | Optimizacija - bibliotečka podrška u problemima optimizacije sa i bez ograničenja; lokalna pretraga |
-| 13 | Modelovanje optimizacionih problema korišćenjem Pyomo biblioteke |
+| 10 | Dekompozicije matrica - LU, Čoleski i SVD dekompozicije, kompresija slika, sistemi preporuka i predikcija nedostajućih vrednosti |
+| 11 | Optimizacija - bibliotečka podrška u problemima optimizacije sa i bez ograničenja; lokalna pretraga |
+| 12 | Modelovanje optimizacionih problema korišćenjem Pyomo biblioteke |
 
 
 Za pristup sveskama koje koristimo na času pogledajte `live` granu.
@@ -40,6 +39,7 @@ Za pristup sveskama koje koristimo na času pogledajte `live` granu.
 | 6 | [čas 06](https://matf.webex.com/matf/ldr.php?RCID=39c4a805bd8ca031baf86ff9df6dcfaf)
 | 8 | [čas 08](https://matf.webex.com/matf/ldr.php?RCID=83862e3f81f055307396cfd32e2135a3)
 | 9 | [čas 09](https://matf.webex.com/matf/ldr.php?RCID=6af71b0779b45a2959ac9af81e377ced)
+| 10 | [čas 10](https://matf.webex.com/matf/ldr.php?RCID=cc621b379876e77d5a56ef02c6869de9)
 
 
 # Tehnologije
