@@ -41,6 +41,7 @@ Za pristup sveskama koje koristimo na času pogledajte `live` granu.
 | 9 | [čas 09](https://matf.webex.com/matf/ldr.php?RCID=6af71b0779b45a2959ac9af81e377ced)
 | 10 | [čas 10](https://matf.webex.com/matf/ldr.php?RCID=cc621b379876e77d5a56ef02c6869de9)
 | 11| [čas 11](https://matf.webex.com/matf/ldr.php?RCID=0ce39c09ace94fbcb4d43aad5dab1220) - napomena: snimak je iz školske 2020/21. godine pa je za pristup u šifri potrebno zameniti godinu 22 sa godinom 21 
+| 12| [čas 12](https://matf.webex.com/matf/ldr.php?RCID=fc3cc0a86a5de40ffcf456d6db106008)
 
 
 # Tehnologije
